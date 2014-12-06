@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\User\Documents\RRC\Fall2014\Mobile\LevlertApp\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-e311e493b238b75da4095bd5ee7b69d76d73dc42.jar"
+        jar="C:\Program Files (x86)\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="C:\Users\User\Documents\RRC\Fall2014\Mobile\LevlertApp\app\build\intermediates\pre-dexed\debug\smartconfiglib-fbc6431ca90d100b196d4a39c7f6486fc168508f.jar"
+        jar="C:\Users\User\Documents\RRC\Fall2014\Mobile\LevlertApp\app\libs\smartconfiglib.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c0a87bc3509aa15127ace1224dc431f501b9e071"/>
+
+</pre-dex-items>
